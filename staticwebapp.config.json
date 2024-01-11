@@ -4,7 +4,7 @@
       {
         "route": "/login",
         "rewrite": "/.auth/login/github",
-        "post_login_redirect_uri": "/restricted/data"
+        "post_login_redirect_uri": "/"
       },
       {
         "route": "/logout",
